@@ -13,7 +13,7 @@ An open-source auto clicker that allows users to set their desired clicks per se
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yash373/cps++.git
+   git clone https://github.com/yash373/cps--.git
    cd auto-clicker
    ```
 
