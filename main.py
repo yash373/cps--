@@ -9,4 +9,4 @@ if __name__ == '__main__':
         # activation -> ctrl + shift + i
         keyboard.wait("b")
         print("activation successfull")
-        pyautogui.click(button="left",clicks=cps,interval=0.01)
+        pyautogui.click(button="left",clicks=cps,interval=1/60)
